@@ -1,2 +1,2 @@
 # travel_web
-Demo: travel-web.great-site.net
+Demo: https://travel-web.great-site.net/
