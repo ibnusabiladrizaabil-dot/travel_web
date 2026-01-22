@@ -1,3 +1,2 @@
 # travel_web
-Demo 
-travel-web.great-site.net
+Demo: travel-web.great-site.net
